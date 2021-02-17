@@ -1,0 +1,7 @@
+Ainult protsessiuuendusega ettevõtted,286
+Ainult tooteuuendusega ettevõtted,287
+Innovaatilised ettevõtted,1422
+Katkestatud või pooleliolevainnovatsiooniga ettevõtted,689
+Lõpetatud toote- võiprotsessiuuendusega ettevõtted,732
+Mitteinnovaatilised ettevõtted,481
+Toote- ja protsessiuuendusegaettevõtted,679
